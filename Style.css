@@ -133,9 +133,10 @@ p{
     ;
     
 }
-.background_image_2 h2{
-    color: tomato;
-    margin-top: 40px;
+#back_h1{
+   color: white;
+    padding: 10px;
     text-align: center;
-    padding-top: 5px;
+    margin: 25px;
+    
 }
